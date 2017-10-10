@@ -1,2 +1,2 @@
 # JavascriptBasics
-Learning path for JavaScript
+Learning path for JavaScript.
